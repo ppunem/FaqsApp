@@ -1,0 +1,33 @@
+/* Write your code here. */
+* {
+  font-family: 'roboto';
+}
+.bg {
+  background-color: #f1f5f8;
+  background-size: cover;
+  min-height: 100vh;
+  align-items: center;
+  padding: 30px;
+}
+.card {
+  margin: 15px;
+  border-radius: 12px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.main-head {
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  color: #cb8805;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
